@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "event": "Hurricane Henry",
+    "location": "London, England",
+    "description": "This hurricane is moving up the coast very rapidply. According to local forecasts, the storm will move Southwest to Northeast, affecting several major areas, and is expected to last at least 6 days.",
+    "mapCoord": [51,0],
+    "numberAffected": 2100,
+    "suppliesNeeded": "Water, Clothing, Food, Medical Equipment",
+    "fundGoal": 50000,
+    "representative": "Jason Smith",
+    "repBio": "Jason has been working as a volunteer for several years. His experience includes the Salvation Army, Red Cross, and other various community service roles."
+  },
+  {
+    "id": 1,
+    "event": "Earthquake",
+    "location": "Cairo, Egypt",
+    "description": "",
+    "mapCoord": [30,30],
+    "numberAffected": 1300,
+    "suppliesNeeded": "Water, Medical Equipment",
+    "fundGoal": 40000,
+    "representative": "Jane Doe",
+    "repBio": "Jane has been working as a volunteer for several years. Her experience includes the Salvation Army, Red Cross, and other various community service roles."
+  }, 
+  {
+    "id": 2,
+    "event": "Earthquake",
+    "location": "San Antonio, Texas",
+    "description": "",
+    "mapCoord": [29.4241, -98.4936],
+    "numberAffected": 900,
+    "suppliesNeeded": "Water, Medical Equipment, Food",
+    "fundGoal": 15000,
+    "representative": "Jane Doe",
+    "repBio": "Jane has been working as a volunteer for several years. Her experience includes the Salvation Army, Red Cross, and other various community service roles."
+  }, 
+  {
+    "id": 3,
+    "event": "Flash Floods",
+    "location": "Saint Paul, Minnesota",
+    "description": "",
+    "mapCoord": [44.9537, -93.0900],
+    "numberAffected": 3100,
+    "suppliesNeeded": "Water, Medical Equipment, Food, Rafts, Clothing",
+    "fundGoal": 30000,
+    "representative": "Jane Doe",
+    "repBio": "Jane has been working as a volunteer for several years. Her experience includes the Salvation Army, Red Cross, and other various community service roles."
+  },
+   {
+    "id": 4,
+    "event": "Tornado",
+    "location": "Richfield, Utah",
+    "description": "",
+    "mapCoord": [38.7725, -112.0841],
+    "numberAffected": 90000,
+    "suppliesNeeded": "Water, Medical Equipment, Food, Clothing",
+    "fundGoal": 250000,
+    "representative": "Jane Doe",
+    "repBio": "Jane has been working as a volunteer for several years. Her experience includes the Salvation Army, Red Cross, and other various community service roles."
+  }
+]
