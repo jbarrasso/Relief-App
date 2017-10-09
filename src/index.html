@@ -1,9 +1,25 @@
 <!DOCTYPE HTML>
 <html>
   <head>
+    <script src="https://cdn-webgl.wrld3d.com/wrldjs/dist/latest/wrld.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.1/leaflet.css" rel="stylesheet"/>
+    <link href="css/custom.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="header"></div>
+    <div class="main">
+      <div id="map"></div>
+      <script type="text/javascript" href="js/app.js"></script>
+    </div>
+  </body>
+</html>
+
+
+<!-- <!DOCTYPE HTML>
+<html>
+  <head>
     <script src="http://www.webglearth.com/v2/api.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/web3.min.js"></script>
     <script src="js/truffle-contract.js"></script>
@@ -18,4 +34,25 @@
     <div id="earth_div"></div>
     <script src="js/app.js"></script>
   </body>
-</html>
+</html> -->
+
+<!-- <!DOCTYPE HTML>
+<html>
+  <head>
+    <script src="https://cdn-webgl.wrld3d.com/wrldjs/dist/latest/wrld.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.1/leaflet.css" rel="stylesheet" />
+  </head>
+  
+  <body>
+  <div style="position: relative">
+    <div id="map" style="height: 400px"></div>
+    <script>
+      var map = L.Wrld.map("map", "your_api_key_here", {
+        center: [37.7858, -122.401],
+        zoom: 16
+      });
+    </script>
+
+  </div>
+  </body>
+</html> -->
