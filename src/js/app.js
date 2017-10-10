@@ -8,7 +8,7 @@ App = {
         zoom: 0
     });
   }
-}
+};
 
 //   createGlobe: function() {
 //         //Instantiates new globe object and places markers.

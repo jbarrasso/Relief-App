@@ -3,16 +3,16 @@ body, html {
 }
 
 .header {
-	height: 15%;
+	height: 5%;
 }
 
 .main { 
-    height: 85%; 
+    height: 95%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #map {
-	height: 80%;
+	height: 90%;
 }
